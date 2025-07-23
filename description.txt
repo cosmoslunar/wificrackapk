@@ -1,0 +1,5 @@
+made on
+https://github.com/trevatk/Wifi-Cracker
+I upgraded it and in assets you can add passwords on wordlist.
+You can use alzip and i didn't signed it right now so you can use apk signer.
+And it uses brute force attack.
