@@ -1,3 +1,4 @@
 # wificrackapk
 wificrackapk
 youcanmakeawikiofwifipasswordsyouknowanduploadwordlist
+youcanalsouseinstabridgetomakewordlist
